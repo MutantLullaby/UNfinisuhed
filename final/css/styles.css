@@ -1,0 +1,41 @@
+
+body {
+	background-color:#0B0200;
+}
+
+#nav-bar {
+	background-color: #330905;
+	font-family: 'Tillana', 'cursive';
+}
+
+ #card {
+ 	background-color: #8B4210;
+ }
+
+#instagram {
+	color: #B87B3F;
+}
+
+#container {
+	background-color: #442419;
+}
+
+#git {
+	color: #B87B3F;
+}
+
+#google {
+	color: #B87B3F;
+}
+
+  .parallax-container {
+      height: "your height here";
+    }
+
+#btn {
+	background-color: #7C5835;
+}
+
+#btn-two {
+	background-color: #BB6D3E;
+}
